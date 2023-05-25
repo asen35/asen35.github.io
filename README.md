@@ -9,3 +9,5 @@
 
 ###New contributor
 __Cyr__
+
+![Chat](chat.jpg "Chat")
