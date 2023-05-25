@@ -3,3 +3,4 @@
 ![Chat](chat.jpg "Chat")
      
      Bonjour, voici une image de chat !
+     Ah non ce n'est pas un chat !!!
