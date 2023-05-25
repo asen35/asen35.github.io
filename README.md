@@ -6,3 +6,6 @@
      Ah non ce n'est pas un chat !!!
      C'est un chaton...
      OK.
+
+###New contributor
+__Cyr__
