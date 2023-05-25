@@ -1,7 +1,5 @@
 # asen35.github.io
 
-<img src="chat.jpg"
-     alt="Chat"
-     style="float: left; margin-right: 10px;" />
+![Chat](chat.jpg "Chat")
      
      Bonjour, voici une image de chat !
